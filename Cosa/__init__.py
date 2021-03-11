@@ -6,5 +6,7 @@ Created on Fri Mar  5 23:29:40 2021
 """
 from .WhiteDwarf import *
 from .WhiteDwarf import glamurny_carlik
+import cosac
+
 print('\nNIT_OK')
-print(WhiteDwarf.glamurny_carlik())
+print(cosac.main())
